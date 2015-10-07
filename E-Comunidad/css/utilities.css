@@ -1,0 +1,220 @@
+/*Global*/
+*{
+	font-family: "OpenSans-Light" Helvetica;
+}
+
+@font-face{
+	font-family: OpenSans-Regular;
+	src: url(../fonts/Open/OpenSans-Regular.ttf);
+}
+@font-face{
+	font-family: OpenSans-Light;
+	src: url(../fonts/Open/OpenSans-Light.ttf);
+}
+@font-face{
+	font-family: OpenSans-Bold;
+	src: url(../fonts/Open/OpenSans-Bold.ttf);
+}
+
+/* Shortcuts */
+
+.pd-0 {
+	padding: 0;
+}
+.pt-5 {
+	padding-top: 5%;
+}
+.pt-10 {
+	padding-top: 10%;
+}
+.pb-5{
+	padding-bottom: 5%;
+}
+.pd-1-8{
+	padding: 1% 8%;
+}
+.pd-1-10{
+	padding: 1% 10%;
+}
+.pd-0-2{
+	padding: 0% 2%;
+}
+.pd-0-5{
+	padding: 0% 5%;
+}
+.pd-2{
+	padding: 2%;
+}
+.pd-3{
+	padding: 3%;
+}
+.pd-4{
+	padding: 4%;
+}
+.pd-5 {
+	padding: 5%;
+}
+.pd-8{
+	padding: 8%;
+}
+.pd-0-2{
+	padding: 0% 2%;
+}
+.pd-0-5{
+	padding: 0% 5%;
+}
+.pd-0-8{
+	padding: 0% 8%;
+}
+.pd-0-10{
+	padding: 0% 10%;
+}
+.pd-0-20{
+	padding: 0% 20%;
+}
+.pd-1-5{
+	padding: 1% 5%;
+}
+.pd-1-8{
+	padding: 1% 8%;
+}
+.pd-5-8{
+	padding: 5% 8%;
+}
+.pd-5-10{
+	padding: 5% 10%;
+}
+.pd-5-20{
+	padding: 5% 20%;
+}
+.pd-5-28{
+ padding: 5% 28%;
+}
+.pd-5-30{
+	padding: 5% 30%;
+}
+.pd-5-35{
+	padding: 5% 35%;
+}
+.pr-2{
+	padding-right: 2%;
+}
+.pl-2{
+	padding-left: 2%;
+}
+.mg-0{
+	margin: 0;
+}
+.mg-5{
+	margin: 5%;
+}
+.mg-10{
+	margin: 10%;
+}
+.mg-20{
+	margin: 20%;
+}
+.mg-30-{
+	margin: 55% 0% 0% 70%;
+}
+.mg-40-{
+	margin: 60% 0% 0% 70%;
+}
+.w-2{
+	width: 2%;
+}
+.w-10{
+	width: 10%;
+}
+.w-20{
+	width: 20%;
+}
+.w-30{
+	width: 30%;
+}
+.w-40{
+	width: 40%;
+}
+.w-50{
+	width: 50%;
+}
+.w-70{
+	width: 70%;
+}
+.w-75{
+	width: 75%;
+}
+.w-80{
+	width: 80%;
+}
+.w-90{
+	width: 90%;
+}
+.w-95{
+	width: 95%;
+}
+.w-100{
+	width: 100%;
+}
+.lh{
+	line-height: 1.5;
+}
+.text-bold{
+	font-weight: bold;
+}
+.text-center{
+	text-align: center;
+}
+.text-left{
+	text-align: left;
+}
+.text-right{
+	text-align: right;
+}
+.text-white{
+	color: white;
+}
+.text-gray{
+	color: rgb(83, 88, 95);
+}
+.text-grey{
+	color: #B1AFAF;
+}
+.text-gris{
+	color: #8A8989;
+}
+.text-blue{
+ color: #192951;
+}
+.a-none-decoration{
+	text-decoration: none;
+}
+.bg-gray{
+	background-color: #F2F2F2;
+}
+.bg-green{
+	background-color: #5E8039;
+}
+.bg-black{
+	background-color: #4D4D4D;
+}
+.text-gray{
+	color:#F2F2F2;
+}
+.text-black{
+	color: #4D4D4D;
+}
+.text-green{
+	color: #5E8039;
+}
+.text-white{
+	color:#fff;
+}
+.text-yellow{
+	color: #fac60e;
+}
+.bg-img-block{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
